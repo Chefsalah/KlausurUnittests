@@ -1,0 +1,10 @@
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\bin\Debug\netstandard2.0\Stadtwerk.deps.json
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\bin\Debug\netstandard2.0\Stadtwerk.dll
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\bin\Debug\netstandard2.0\Stadtwerk.pdb
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\obj\Debug\netstandard2.0\Stadtwerk.csproj.AssemblyReference.cache
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\obj\Debug\netstandard2.0\Stadtwerk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\obj\Debug\netstandard2.0\Stadtwerk.AssemblyInfoInputs.cache
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\obj\Debug\netstandard2.0\Stadtwerk.AssemblyInfo.cs
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\obj\Debug\netstandard2.0\Stadtwerk.csproj.CoreCompileInputs.cache
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\obj\Debug\netstandard2.0\Stadtwerk.dll
+C:\Users\chefs\Downloads\Stadtwerk_Stufe1\Stadtwerk\Stadtwerk\obj\Debug\netstandard2.0\Stadtwerk.pdb

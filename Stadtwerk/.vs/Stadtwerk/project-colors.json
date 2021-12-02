@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4ca721e-0f94-4579-9844-bb90050f469d": {
+      "ProjectGuid": "b4ca721e-0f94-4579-9844-bb90050f469d",
+      "DisplayName": "StadwerkTests",
+      "ColorIndex": 0
+    },
+    "b6fc22d4-17a4-470f-9b72-4f733c1f5bda": {
+      "ProjectGuid": "b6fc22d4-17a4-470f-9b72-4f733c1f5bda",
+      "DisplayName": "Stadtwerk",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
